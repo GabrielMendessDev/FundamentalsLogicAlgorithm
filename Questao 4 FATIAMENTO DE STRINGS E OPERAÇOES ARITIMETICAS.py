@@ -1,0 +1,5 @@
+F=int(input("Insira a temperatura em graus Fahrenheit (F):"))
+C=5/9*(F-32)
+print("-")
+print("-")
+print(C, "graus Celsius(C)")
